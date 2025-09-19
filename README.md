@@ -8,3 +8,4 @@ buttons
 animations
 texts
 styles
+colors
