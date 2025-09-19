@@ -5,3 +5,4 @@ body
 footer
 images
 buttons
+animations
