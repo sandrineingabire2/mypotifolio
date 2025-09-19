@@ -6,3 +6,4 @@ footer
 images
 buttons
 animations
+texts
