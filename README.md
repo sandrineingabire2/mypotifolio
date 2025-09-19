@@ -7,3 +7,4 @@ images
 buttons
 animations
 texts
+styles
