@@ -9,3 +9,4 @@ animations
 texts
 styles
 colors
+transitions
