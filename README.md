@@ -4,3 +4,4 @@ header section
 body
 footer
 images
+buttons
